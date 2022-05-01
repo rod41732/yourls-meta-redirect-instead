@@ -2,7 +2,7 @@
 
 <!-- Once you have committed code, get your plugin listed in Awesome YOURLS ! See https://github.com/YOURLS/awesome-yourls -->
 
-:bulb: Plugin short description: what it does
+
 
 Requires [YOURLS](https://yourls.org) `<here: min-version if applicable>` and above.
 
